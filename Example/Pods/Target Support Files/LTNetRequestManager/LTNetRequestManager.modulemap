@@ -1,0 +1,6 @@
+framework module LTNetRequestManager {
+  umbrella header "LTNetRequestManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

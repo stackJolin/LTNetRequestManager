@@ -1,0 +1,6 @@
+framework module Pods_LTNetRequestManager_Example {
+  umbrella header "Pods-LTNetRequestManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
